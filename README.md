@@ -1,9 +1,7 @@
-# Relay TodoMVC
-
 ## Installation
 
 ```
-npm install
+npm install or yarn
 ```
 
 ## Running
@@ -11,14 +9,14 @@ npm install
 Set up generated files:
 
 ```
-npm run update-schema
-npm run build
+npm run update-schema or yarn run update-schema
+npm run build or yarn run build
 ```
 
 Start a local server:
 
 ```
-npm start
+npm start or yarn start
 ```
 
 ## Developing
@@ -34,15 +32,3 @@ npm run update-schema
 npm run build
 npm start
 ```
-
-## License
-
-    This file provided by Facebook is for non-commercial testing and evaluation
-    purposes only.  Facebook reserves all rights not expressly granted.
-
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
-    FACEBOOK BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
-    ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-    CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
